@@ -1,0 +1,5 @@
+print("Hello world!")
+print("AWS")
+print("Jenkins")
+print("Docker")
+print("K8s")
