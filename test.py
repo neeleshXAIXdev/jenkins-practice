@@ -1,4 +1,4 @@
-prin("Hello world!")
+print("Hello world!")
 print("AWS")
 print("Jenkins")
 print("Docker")
